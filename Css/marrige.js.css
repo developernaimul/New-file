@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;700&display=swap');
+
+*{
+    margin : 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.box{
+    margin-top: 100px;
+}
+.banner{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background: url(https://st4.depositphotos.com/21920074/39314/i/450/depositphotos_393145484-stock-photo-close-indian-couple-hands-wedding.jpg) no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
